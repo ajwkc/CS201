@@ -1,0 +1,10 @@
+f Zach Shiffer 100 10000.29
+s Jack Smith 102 Art
+f Toni Alberto 103 98000.39
+s Sam Wael 104 History
+s Kim Watson 105 Math
+s Nancy Thomson 106 Geography
+s Tim Jefferson 107 Art
+f Andrew Jazz 108 94000.55
+f Kyle Zipp 109 68344.09
+s Sam Anthony 110 Engineering
