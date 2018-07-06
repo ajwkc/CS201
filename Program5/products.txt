@@ -1,0 +1,23 @@
+SHIRT
+KC Royals shirt
+M
+3
+14.99
+
+SUPPLIES
+Envelopes
+100
+5
+9.99
+
+SHIRT
+I <3 CS! shirt
+2XL
+3
+14.99
+
+SUPPLIES
+Staples
+5000
+12
+4.99
