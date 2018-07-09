@@ -1,1 +1,1 @@
-Easy breasy beautiful distance calculator
+Easy breezy beautiful distance calculator
