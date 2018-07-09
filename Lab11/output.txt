@@ -1,0 +1,27 @@
+Integers:
+Swapped items at positions 10 and 20
+Before: [10] 78 [20] 81
+After: [10] 81 [20] 78
+Minimum: 2
+Maximum: 99
+The number 1 is at position -1
+The number 5 is at position 38
+
+Doubles:
+Swapped items at positions 10 and 20
+Before: [10] 7.69861 [20] 7.21923
+After: [10] 7.21923 [20] 7.69861
+Minimum: 0.00569
+Maximum: 9.9935
+The number 4.62557 is at position 19
+The number 1.23456 is at position -1
+
+Strings:
+Swapped items at positions 10 and 20
+Before: [10] Album [20] Vacuum
+After: [10] Vacuum [20] Album
+Minimum: Airport
+Maximum: X-ray
+The word Shoes is at position 69
+The word Pumpkin is at position -1
+
